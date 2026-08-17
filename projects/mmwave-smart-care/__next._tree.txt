@@ -1,4 +1,4 @@
-:HL["/_next/static/css/7005e57da7828ac5.css","style"]
-:HL["/_next/static/css/d8c3aaabb829cb82.css","style"]
-:HL["/_next/static/css/a620b4f1971af53d.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"projects","param":null,"prefetchHints":4192,"slots":{"children":{"name":"mmwave-smart-care","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"sWT2AH4Jh7ya82Y3LM5Hd"}
+:HL["/_next/static/chunks/2itw12jq97856.css","style"]
+:HL["/_next/static/chunks/3brun0d7yq_hd.css","style"]
+:HL["/_next/static/chunks/2_xhv59mo8y5t.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"projects","param":null,"prefetchHints":4192,"slots":{"children":{"name":"mmwave-smart-care","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"HPzR50FBjJDVh2lT8Oirm"}
